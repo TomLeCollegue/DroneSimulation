@@ -1,4 +1,6 @@
-# Clone the project 
+# Prototype Drone Simulation in UNITY
+
+## Clone the project : 
 
 ### you need git lfs installed : 
  in git bash : git lfs install
